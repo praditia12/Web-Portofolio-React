@@ -6,7 +6,7 @@ import About from "./Component/About";
 import Resume from "./Component/Resume";
 import Contacts from "./Component/Contacts";
 import Portofolio from "./Component/Portofolio";
-// import Footer from "./Component/Footer";
+import Footer from "./Component/Footer";
 
 function App() {
   const [resumeData, setResumeData] = useState({});
@@ -39,7 +39,7 @@ function App() {
       <Resume data={resumeData.resume} />
       <Portofolio data={resumeData.portofolio} />
       <Contacts data={resumeData.main} />
-      {/* <Footer data={resumeData.main} /> */}
+      <Footer data={resumeData.main} />
     </>
   )
 }
