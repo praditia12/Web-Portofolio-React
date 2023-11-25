@@ -5,7 +5,7 @@ import Header from "./Component/Header";
 import About from "./Component/About";
 import Resume from "./Component/Resume";
 // import Contacs from "./Component/Contacs";
-// import Portofolio from "./Component/Portofolio";
+import Portofolio from "./Component/Portofolio";
 // import Footer from "./Component/Footer";
 
 function App() {
@@ -37,8 +37,8 @@ function App() {
       <Header data={resumeData.main} />
       <About data={resumeData.main} />
       <Resume data={resumeData.resume} />
-      {/* <Portofolio data={resumeData.portofolio} />
-      <Contacs data={resumeData.main} />
+      <Portofolio data={resumeData.portofolio} />
+      {/* <Contacs data={resumeData.main} />
       <Footer data={resumeData.main} /> */}
     </>
   )

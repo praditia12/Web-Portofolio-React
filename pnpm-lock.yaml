@@ -20,6 +20,9 @@ dependencies:
   react-ga:
     specifier: ^3.3.0
     version: 3.3.1(prop-types@15.8.1)(react@18.2.0)
+  react-zmage:
+    specifier: 0.8.5-beta.37
+    version: 0.8.5-beta.37(react-dom@18.2.0)(react@18.2.0)
 
 devDependencies:
   '@types/react':
@@ -925,6 +928,10 @@ packages:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
     dev: true
+
+  /classnames@2.3.2:
+    resolution: {integrity: sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw==}
+    dev: false
 
   /color-convert@1.9.3:
     resolution: {integrity: sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==}
@@ -2136,6 +2143,17 @@ packages:
     resolution: {integrity: sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==}
     engines: {node: '>=0.10.0'}
     dev: true
+
+  /react-zmage@0.8.5-beta.37(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-6US4DVozc2IdqxHCrMAejDy3H08B95Rc/LeFMnHBblE0wagKbqbQlHfwgLRUcdPBBKCtm1KuWNKiN3MXurrcOg==}
+    peerDependencies:
+      react: '>=16.8.0'
+      react-dom: '>=16.8.0'
+    dependencies:
+      classnames: 2.3.2
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+    dev: false
 
   /react@18.2.0:
     resolution: {integrity: sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==}
