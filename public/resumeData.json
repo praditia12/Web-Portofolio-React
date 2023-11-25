@@ -1,0 +1,161 @@
+{
+    "main": {
+      "name": "Adit Praditia",
+      "description": "I'm a Web Developer",
+      "github": "github.com/praditia12",
+      "project": "github.com/praditia12",
+      "bio": "Perkenalkan nama saya Adit Praditia biasa di panggil Adit, umur saya 18 tahun, saya berasal dari Subang Jawa Barat, sekarang saya tinggal di jakarta untuk keperluan pekerjaan",
+      "contactmessage": "Hello, here I am",
+      "email": "myemail@gmail.com",
+      "phone": "877-1234-5678",
+      "image": "profilepic.jpg",
+      "address": {
+        "street": "Jl Pancoran Barat 4",
+        "city": "Pancoran",
+        "state": "Jakarta Selatan",
+        "zip": "16024"
+      },
+      "resumeDownload": "github.com/praditia12",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://facebook.com/aditprdty/",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "twitter",
+          "url": "http://twitter.com",
+          "className": "fa fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/adit-praditia/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "http://instagram.com/aditprdty_",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/praditia12",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+      "education": [
+        {
+          "school": "SMK Negeri 1 Subang",
+          "degree": "Rekayasa Perangkat  Lunak",
+          "graduated": "June 2023",
+          "description": "I am joining Infomasi Teknologi Club"
+        }
+      ],
+      "work": [
+        {
+          "company": "PT Protonema",
+          "title": "Frontend Engineer",
+          "years": "February 2022 - present",
+          "description": "Creating a mobile application"
+        }
+      ],
+      "skills": [
+        {
+          "name": "Java",
+          "level": "60%"
+        },
+        {
+          "name": "ReactJS",
+          "level": "80%"
+        },
+        {
+          "name": "TypeScript",
+          "level": "70%"
+        },
+        {
+          "name": "PHP",
+          "level": "75%"
+        }
+      ]
+    },
+    "portofolio": {
+      "projects": [
+        {
+          "title": "Canadian Wanderlust",
+          "category": "My travel blog for my post-university",
+          "image": "01.jpg",
+          "url": "https://www.canadianwanderlust.com"
+        },
+        {
+          "title": "Fury Fighting Gear",
+          "category": "(offline now) A fighting gear company I started",
+          "image": "02.jpg",
+          "url": "http://www.timbakerdev.com"
+        },
+        {
+          "title": "Original Thai Food",
+          "category": "Website I built for a restaurant I like in Thailand",
+          "image": "03.jpg",
+          "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        },
+        {
+          "title": "Resume Website",
+          "category": "A React based resume website template",
+          "image": "04.jpg",
+          "url": "http://www.timbakerdev.com"
+        },
+        {
+          "title": "Smirkspace",
+          "category": "(MVP Only) A React and Meteor based chat University project.",
+          "image": "05.jpg",
+          "url": "http://www.smirkspace.com"
+        },
+        {
+          "title": "Canadian Wanderlust",
+          "category": "My Travel Blog for my post-university travels",
+          "image": "06.jpg",
+          "url": "https://www.canadianwanderlust.com"
+        },
+        {
+          "title": "Fury Fighting Gear",
+          "category": "(offline now) A fighting gear company I started",
+          "image": "01.jpg",
+          "url": "http://www.timbakerdev.com"
+        },
+        {
+          "title": "Original Thai Food",
+          "category": "Website I built for a restaurant I like in Thailand",
+          "image": "02.jpg",
+          "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        },
+        {
+          "title": "Original Thai Food",
+          "category": "Website I built for a restaurant I like in Thailand",
+          "image": "03.jpg",
+          "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        },
+        {
+          "title": "Resume Website",
+          "category": "A React based resume website template",
+          "image": "04.jpg",
+          "url": "http://www.timbakerdev.com"
+        },
+        {
+          "title": "Smirkspace",
+          "category": "(MVP Only) A React and Meteor based chat University project.",
+          "image": "05.jpg",
+          "url": "http://www.smirkspace.com"
+        },
+        {
+          "title": "Canadian Wanderlust",
+          "category": "My Travel Blog for my post-university travels",
+          "image": "06.jpg",
+          "url": "https://www.canadianwanderlust.com"
+        }
+      ]
+    }
+  }
+  
