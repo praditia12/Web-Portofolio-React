@@ -4,7 +4,7 @@ import ReactGA from "react-ga";
 import Header from "./Component/Header";
 import About from "./Component/About";
 import Resume from "./Component/Resume";
-// import Contacs from "./Component/Contacs";
+import Contacts from "./Component/Contacts";
 import Portofolio from "./Component/Portofolio";
 // import Footer from "./Component/Footer";
 
@@ -38,8 +38,8 @@ function App() {
       <About data={resumeData.main} />
       <Resume data={resumeData.resume} />
       <Portofolio data={resumeData.portofolio} />
-      {/* <Contacs data={resumeData.main} />
-      <Footer data={resumeData.main} /> */}
+      <Contacts data={resumeData.main} />
+      {/* <Footer data={resumeData.main} /> */}
     </>
   )
 }
